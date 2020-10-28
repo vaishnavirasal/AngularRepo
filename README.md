@@ -1,2 +1,3 @@
 # Collapsable Tree Table
-angular related code
+used:
+Bootstrap, fontawesome libray, jquery
